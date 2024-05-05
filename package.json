@@ -1,0 +1,28 @@
+{
+  "name": "pathabs",
+  "version": "0.0.0",
+  "description": "Resolve the absolute path from a relative or OS-specific path",
+  "type": "module",
+  "main": "src/pathabs.mjs",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "absolute",
+    "path",
+    "resolver",
+    "resolution",
+    "join",
+    "cross-platform",
+    "os-specific",
+    "os",
+    "specific",
+    "converter",
+    "conversion"
+  ],
+  "author": "Ashlynne Juniper",
+  "license": "MPL-2.0"
+}
