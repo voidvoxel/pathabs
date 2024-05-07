@@ -1,5 +1,7 @@
 # `pathabs`
 
+[![Known Vulnerabilities](https://snyk.io/test/github/voidvoxel/pathabs/badge.svg)](https://snyk.io/test/github/voidvoxel/pathabs)
+
 Resolve the absolute path from a relative or OS-specific path
 
 ## Installation
